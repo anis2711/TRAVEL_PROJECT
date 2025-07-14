@@ -12,6 +12,11 @@ Vous trouverez dans ce repository les différents notebooks et fichiers correspo
 
 - `3_travel_plotly.ipynb` :  
   Création de visualisations interactives à l'aide de **Plotly Express** pour représenter les données analysées.
+## 🖼️ Aperçu
+
+Voici un exemple de graphique interactif généré avec Plotly :
+
+![Graphique Plotly](assets/plotly_graph.png)
 
 ## 🛠️ Technologies utilisées
 
@@ -27,10 +32,3 @@ Vous trouverez dans ce repository les différents notebooks et fichiers correspo
 ```bash
 git clone https://github.com/ton-utilisateur/travel-project.git
 cd travel-project
-
-## 🖼️ Aperçu
-
-Voici un exemple de graphique interactif généré avec Plotly :
-
-![Graphique Plotly](assets/plotly_graph.png)
-
