@@ -27,7 +27,4 @@ Vous trouverez dans ce repository les différents notebooks et fichiers correspo
 ```bash
 git clone https://github.com/ton-utilisateur/travel-project.git
 cd travel-project
-python -m venv venv
-source venv/bin/activate  # Ou venv\Scripts\activate sous Windows
-pip install -r requirements.txt
-jupyter notebook
+
