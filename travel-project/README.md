@@ -17,9 +17,6 @@ Vous trouverez dans ce repository les différents notebooks et fichiers correspo
 Voici un exemple de graphique interactif généré avec Plotly :
 
 ![Graphique Plotly](assets/plotly_graph.png)
-## 🎬 Démo
-
-![Démo interactive](assets/plotly_demo.gif)
 
 ## 🛠️ Technologies utilisées
 
