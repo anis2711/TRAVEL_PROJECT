@@ -27,5 +27,10 @@ Vous trouverez dans ce repository les différents notebooks et fichiers correspo
 ```bash
 git clone https://github.com/ton-utilisateur/travel-project.git
 cd travel-project
-![Aperçu du graphique](assets/plotly_graph.png)
+
+## 🖼️ Aperçu
+
+Voici un exemple de graphique interactif généré avec Plotly :
+
+![Graphique Plotly](assets/plotly_graph.png)
 
